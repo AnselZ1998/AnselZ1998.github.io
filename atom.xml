@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-24T16:41:12.196Z</updated>
+  <updated>2024-07-25T16:19:04.565Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2024/07/23/hello-world/"/>
     <id>http://example.com/2024/07/23/hello-world/</id>
     <published>2024-07-23T15:19:04.479Z</published>
-    <updated>2024-07-24T16:41:12.196Z</updated>
+    <updated>2024-07-25T16:19:04.565Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>欢迎来到<code>ansel98.top</code>,这里将会分享相关三维技术、编程、数学知识，偶尔也会分享一些作者随笔！</li><li>目前正在加紧建设，欢迎随时监督进度！</li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li>欢迎来到<code>ansel98.top</code>,这里将会分享相关三维技术、编程、数学知识，偶尔也会分享一些作者随笔！</li><li>目前正在加紧建设，欢迎随时监督进度！</li><li>2024&#x2F;07&#x2F;26：<ul><li>新增了代码提示</li><li>新增背景动态效果</li><li>调整图标</li><li>图片调整<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">it <span class="keyword">is</span> a highlight test!</span><br></pre></td></tr></table></figure></li></ul></li></ul>]]></content>
     
     
       
@@ -31,8 +31,8 @@
     <summary type="html">&lt;ul&gt;
 &lt;li&gt;欢迎来到&lt;code&gt;ansel98.top&lt;/code&gt;,这里将会分享相关三维技术、编程、数学知识，偶尔也会分享一些作者随笔！&lt;/li&gt;
 &lt;li&gt;目前正在加紧建设，欢迎随时监督进度！&lt;/li&gt;
-&lt;/ul&gt;
-</summary>
+&lt;li&gt;2024&amp;#x2F;07&amp;#x2F;26：&lt;ul&gt;
+&lt;li&gt;</summary>
       
     
     
