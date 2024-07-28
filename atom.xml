@@ -3,11 +3,11 @@
   <title>Ansel的碎碎念</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://ansel98.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-07-25T16:19:04.565Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://ansel98.top/"/>
+  <updated>2024-07-28T07:44:14.071Z</updated>
+  <id>http://ansel98.top/</id>
   
   <author>
     <name>Ansel Zhai</name>
@@ -17,9 +17,71 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>ttest</title>
+    <link href="http://ansel98.top/2024/07/28/ttest/"/>
+    <id>http://ansel98.top/2024/07/28/ttest/</id>
+    <published>2024-07-28T07:22:44.000Z</published>
+    <updated>2024-07-28T07:44:14.071Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2024/07/28/ttest/python.jpg" class="" title="python">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;img src=&quot;/2024/07/28/ttest/python.jpg&quot; class=&quot;&quot; title=&quot;python&quot;&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>testpicture</title>
+    <link href="http://ansel98.top/2024/07/28/testpicture/"/>
+    <id>http://ansel98.top/2024/07/28/testpicture/</id>
+    <published>2024-07-28T06:56:20.000Z</published>
+    <updated>2024-07-28T07:38:08.735Z</updated>
+    
+    
+    
+    
+    <category term="Hexo" scheme="http://ansel98.top/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="http://ansel98.top/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试用hexo</title>
+    <link href="http://ansel98.top/2024/07/28/%E6%B5%8B%E8%AF%95%E7%94%A8hexo-1/"/>
+    <id>http://ansel98.top/2024/07/28/%E6%B5%8B%E8%AF%95%E7%94%A8hexo-1/</id>
+    <published>2024-07-28T03:29:40.000Z</published>
+    <updated>2024-07-28T07:29:05.921Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试的hexo"><a href="#测试的hexo" class="headerlink" title="测试的hexo"></a>测试的hexo</h1><p>插入一个图片测试一下</p><p>a<br>aa<br>a<br>a<br>a<br>a<br>a<br>a<br>a<br>a<br>a</p><p>a<br>a<br>a</p><h2 id="aaa"><a href="#aaa" class="headerlink" title="aaa"></a>a<br>a<br>a</h2><h2 id="a-a"><a href="#a-a" class="headerlink" title="--a-a"></a>-<br>-a<br>-a</h2><p>啥？</p><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试的hexo&quot;&gt;&lt;a href=&quot;#测试的hexo&quot; class=&quot;headerlink&quot; title=&quot;测试的hexo&quot;&gt;&lt;/a&gt;测试的hexo&lt;/h1&gt;&lt;p&gt;插入一个图片测试一下&lt;/p&gt;
+&lt;p&gt;a&lt;br&gt;aa&lt;br&gt;a&lt;br&gt;a&lt;br&gt;a&lt;br&gt;a&lt;br&gt;a</summary>
+      
+    
+    
+    
+    <category term="Hexo" scheme="http://ansel98.top/categories/Hexo/"/>
+    
+    
+    <category term="hexo" scheme="http://ansel98.top/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello there!</title>
-    <link href="http://example.com/2024/07/23/hello-world/"/>
-    <id>http://example.com/2024/07/23/hello-world/</id>
+    <link href="http://ansel98.top/2024/07/23/hello-world/"/>
+    <id>http://ansel98.top/2024/07/23/hello-world/</id>
     <published>2024-07-23T15:19:04.479Z</published>
     <updated>2024-07-25T16:19:04.565Z</updated>
     

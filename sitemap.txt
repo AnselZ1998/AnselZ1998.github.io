@@ -1,3 +1,9 @@
-http://example.com/2024/07/23/hello-world/
-http://example.com/categories/index.html
-http://example.com/
+http://ansel98.top/2024/07/28/ttest/
+http://ansel98.top/2024/07/28/testpicture/
+http://ansel98.top/2024/07/28/%E6%B5%8B%E8%AF%95%E7%94%A8hexo-1/
+http://ansel98.top/2024/07/23/hello-world/
+http://ansel98.top/categories/index.html
+http://ansel98.top/
+http://ansel98.top/tags/Hexo/
+http://ansel98.top/tags/hexo/
+http://ansel98.top/categories/Hexo/
