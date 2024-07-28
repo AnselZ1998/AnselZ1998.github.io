@@ -2,25 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ansel98.top/2024/07/28/ttest/</loc>
-    
-    <lastmod>2024-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ansel98.top/2024/07/28/testpicture/</loc>
-    
-    <lastmod>2024-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ansel98.top/2024/07/28/%E6%B5%8B%E8%AF%95%E7%94%A8hexo-1/</loc>
+    <loc>http://ansel98.top/2024/07/28/Hexo%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95-%E2%85%A0-%E5%88%A9%E7%94%A8Github%E8%BF%9B%E8%A1%8CHexo%E7%9A%84%E6%90%AD%E5%BB%BA/</loc>
     
     <lastmod>2024-07-28</lastmod>
     
@@ -57,13 +39,6 @@
   
   <url>
     <loc>http://ansel98.top/tags/Hexo/</loc>
-    <lastmod>2024-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://ansel98.top/tags/hexo/</loc>
     <lastmod>2024-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

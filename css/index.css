@@ -3877,6 +3877,7 @@ h1.page-title + .tag-cloud-list {
   -o-transition: filter 375ms ease-in 0.2s;
   -ms-transition: filter 375ms ease-in 0.2s;
   transition: filter 375ms ease-in 0.2s;
+  margin: 0 auto;
 }
 #article-container p {
   margin: 0 0 16px;
